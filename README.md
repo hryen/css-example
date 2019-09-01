@@ -4,3 +4,6 @@
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhryen%2Fcss-example.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhryen%2Fcss-example?ref=badge_large)
+
+
+[![CircleCI](https://circleci.com/gh/hryen/blog/tree/no-redis.svg?style=svg)](https://circleci.com/gh/hryen/blog/tree/no-redis)
